@@ -122,6 +122,9 @@ Complete API documentation with request/response examples is available via Postm
 
 [Postman API Documentation](https://documenter.getpostman.com/view/47235614/2sBXVcmYN8)
 
+## API Testing Screenshots
+Screenshots demonstrating API request and response validation using Postman are provided in the `/screenshots` folder.
+
 ### **Available API Modules**
 
 **Personnel APIs**
